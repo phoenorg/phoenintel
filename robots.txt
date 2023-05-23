@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /404.html
+Disallow: /LICENSE.md
+Disallow: /style.css
+Disallow: /LucymarSans-Regular.ttf
+Sitemap: http://phoenintel.st4lwolf.org/sitemap.txt
+
+
+# BTW, what are you doing here? 
